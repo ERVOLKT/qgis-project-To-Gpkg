@@ -1,0 +1,9 @@
+[general]
+name=MinimalPlugin_exp
+description=Exports all project vector layers to one Geopackage
+about=About this minimal plugin
+version=1.0
+qgisMinimumVersion=3.0
+author=Volker Theil
+email=volker.theil@gma.biz
+repository=URL to the code repository
